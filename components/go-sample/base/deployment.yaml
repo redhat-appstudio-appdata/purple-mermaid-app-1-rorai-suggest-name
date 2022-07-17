@@ -41,6 +41,6 @@ spec:
             port: 8081
         resources:
           requests:
-            cpu: 10m
+            cpu: 9m
             memory: 10Mi
 status: {}
